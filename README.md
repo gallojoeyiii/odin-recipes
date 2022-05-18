@@ -1,0 +1,1 @@
+This is the first project in the odin project which focuses on making a small website using HTML.
